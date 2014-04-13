@@ -1,0 +1,13 @@
+{
+    "name": "tilestream-badger",
+    "author": "Anthony Lukach",
+    "version": "0.0.1",
+    "description": "My TileStream Server, http://www.spatialanalysis.ca/2014/deploying-tilestream-to-the-heroku-cloud/",
+    "engines": {
+      "node": "0.10.24",
+      "npm":  "1.3.11"
+    },
+    "dependencies": {
+      "tilestream": "1.1.0"
+    }
+}
